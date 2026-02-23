@@ -97,3 +97,8 @@ if __name__ == "__main__":
     results = inventory.find_product_by_name("Laptop")
     for item in results:
         print(item)
+
+
+
+
+#developd by seyed saeed haeri
